@@ -1,0 +1,35 @@
+  body{
+    font-family: "Segoe UI Semibold", "Segoe WP Semibold", device-segoe-semibold, "Segoe UI", "Segoe WP", Segoe, Tahoma, Helvetica, Arial, sans-serif !important;
+  }
+  table, th, td {
+    border-collapse: collapse;
+  }
+  
+  th:nth-child(even),td:nth-child(even) {
+    background-color:#e4e7e9;
+  }
+  tr {
+    height:40px;
+    border-bottom: 1px solid #ddd;
+  }
+  .times:hover{
+    background-color: rgba(4, 130, 143, 0.4);
+  }
+  .calenTable{
+    width:100%;
+    text-align: center;
+    color:#04828f;
+    padding: 10px;
+  }
+  .calenderDiv{
+    width: 500px;
+    height: auto;
+    align-content: center;
+    margin: 20px 120px;
+  }
+  .header{
+    background-color: rgba(4, 130, 143);
+    padding: 10px;
+    text-align: center;
+  }
+  
